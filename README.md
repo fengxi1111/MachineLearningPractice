@@ -1,1 +1,1 @@
-# MachineLearningPractice
+# Machine Learning Projects
